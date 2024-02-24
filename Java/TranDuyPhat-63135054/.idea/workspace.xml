@@ -4,27 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae34befb-6df9-47bc-85ce-5117ea98dd9d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/bt_java/bt4/MainBT4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bt_java/cc1_tinh/Chia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bt_java/cc1_tinh/Cong.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bt_java/cc1_tinh/Context.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bt_java/cc1_tinh/MainCC1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bt_java/cc1_tinh/Nhan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bt_java/cc1_tinh/Tinh.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bt_java/cc1_tinh/Tru.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bt_java/cc2_sapxep/ISoSanh.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bt_java/cc2_sapxep/MainCC2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bt_java/cc2_sapxep/QLSV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bt_java/cc2_sapxep/SinhVien.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bt_java/cc2_sapxep/SoSanhTheoDiem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bt_java/cc2_sapxep/SoSanhTheoTen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bt_java/bt4/ChuyenXe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bt_java/bt4/ChuyenXe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bt_java/bt4/ChuyenXeNgoaiThanh.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bt_java/bt4/ChuyenXeNgoaiThanh.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bt_java/bt4/ChuyenXeNoiThanh.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bt_java/bt4/ChuyenXeNoiThanh.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bt_java/bt4/QuanLyChuyenXe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bt_java/bt4/QuanLyChuyenXe.java" afterDir="false" />
-    </list>
+    <list default="true" id="ae34befb-6df9-47bc-85ce-5117ea98dd9d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,8 +51,12 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Code/KTTKPM/Java/TranDuyPhat-63135054/src"
+    "last_opened_file_path": "D:/Code/KTTKPM/Java/TranDuyPhat-63135054",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
   <component name="RecentsManager">
