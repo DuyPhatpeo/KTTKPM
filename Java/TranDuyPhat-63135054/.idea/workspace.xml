@@ -4,7 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae34befb-6df9-47bc-85ce-5117ea98dd9d" name="Changes" comment="" />
+    <list default="true" id="ae34befb-6df9-47bc-85ce-5117ea98dd9d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/bt_java/bt4/MainBT4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bt_java/cc1_tinh/Chia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bt_java/cc1_tinh/Cong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bt_java/cc1_tinh/Context.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bt_java/cc1_tinh/MainCC1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bt_java/cc1_tinh/Nhan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bt_java/cc1_tinh/Tinh.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bt_java/cc1_tinh/Tru.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bt_java/cc2_sapxep/ISoSanh.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bt_java/cc2_sapxep/MainCC2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bt_java/cc2_sapxep/QLSV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bt_java/cc2_sapxep/SinhVien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bt_java/cc2_sapxep/SoSanhTheoDiem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bt_java/cc2_sapxep/SoSanhTheoTen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bt_java/bt4/ChuyenXe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bt_java/bt4/ChuyenXe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bt_java/bt4/ChuyenXeNgoaiThanh.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bt_java/bt4/ChuyenXeNgoaiThanh.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bt_java/bt4/ChuyenXeNoiThanh.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bt_java/bt4/ChuyenXeNoiThanh.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bt_java/bt4/QuanLyChuyenXe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bt_java/bt4/QuanLyChuyenXe.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +34,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -28,6 +49,9 @@
   &quot;associatedIndex&quot;: 8
 }</component>
   <component name="ProjectId" id="2bOd8eUjqOgt4epueMTBcpdt0kT" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -36,6 +60,9 @@
   "keyToString": {
     "Application.Main.executor": "Run",
     "Application.MainBT1.executor": "Run",
+    "Application.MainBT4.executor": "Run",
+    "Application.MainCC1.executor": "Run",
+    "Application.MainCC2.executor": "Run",
     "Application.MainComputer.executor": "Run",
     "Application.MainDuck.executor": "Run",
     "Application.MainSingleton.executor": "Run",
@@ -52,6 +79,40 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Code\KTTKPM\Java\TranDuyPhat-63135054\src" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MainBT4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bt_java.bt4.MainBT4" />
+      <module name="TranDuyPhat-63135054" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bt_java.bt4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainCC1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bt_java.cc1_tinh.MainCC1" />
+      <module name="TranDuyPhat-63135054" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bt_java.cc1_tinh.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainCC1" />
+        <item itemvalue="Application.MainBT4" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
