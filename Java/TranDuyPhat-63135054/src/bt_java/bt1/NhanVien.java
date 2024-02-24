@@ -18,7 +18,7 @@ public class NhanVien {
 
     @Override
     public String toString() {
-        return "\n Tên:" + ten + "\n" +
+        return "\nTên:" + ten + "\n" +
                 "Địa chỉ:" + diaChi + "\n" +
                 "Tuổi:" + tuoi + "\n" +
                 "Tổng số giờ làm:" + tongSoGioLam + "\n" +
