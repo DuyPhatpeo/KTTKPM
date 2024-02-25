@@ -9,8 +9,8 @@ public class QuanLyChuyenXe {
     // thêm chuyến xe
     public void themChuyenXe(ChuyenXe c){
         // kiểm tra nếu đã có chuyến xe trong danh sách thì dừng
-        for(ChuyenXe cx: list){
-            if(cx.getMaSoChuyen().equals(cx.getMaSoChuyen()))
+        for(ChuyenXe existingChuyenXe: list){
+            if(existingChuyenXe.getMaSoChuyen().equals(c.getMaSoChuyen()))
                 return;
         }
         // thêm chuyến xe nếu chưa có trong danh sách
@@ -39,6 +39,9 @@ public class QuanLyChuyenXe {
 
     // tổng doang thu cả 2 xe
     public  float tongDoanhThu(){
+        if(list == null)
+            return 0;
+
         float dt = 0;
         for(ChuyenXe c: list){
             dt += c.getDoanhThu();
@@ -52,3 +55,4 @@ public class QuanLyChuyenXe {
             System.out.println(cx.toString());
     }
 }
+
