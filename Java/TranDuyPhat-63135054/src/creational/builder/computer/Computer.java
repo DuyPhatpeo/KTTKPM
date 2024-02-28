@@ -1,4 +1,4 @@
-package creational.builder;
+package creational.builder.computer;
 //Lớp co đối tường cần xây dựng với nhiều thành phần
 public class Computer {
     // 1.Các thành phần cần xây dựng, việc xây dựng các thành phần này là phức tạp

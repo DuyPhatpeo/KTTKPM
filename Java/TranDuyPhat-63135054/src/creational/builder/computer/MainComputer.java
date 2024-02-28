@@ -1,4 +1,6 @@
-package creational.builder;
+package creational.builder.computer;
+
+import creational.builder.computer.Computer;
 
 public class MainComputer {
     public static void main(String[] args) {

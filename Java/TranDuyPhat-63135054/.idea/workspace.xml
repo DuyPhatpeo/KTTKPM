@@ -4,7 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae34befb-6df9-47bc-85ce-5117ea98dd9d" name="Changes" comment="" />
+    <list default="true" id="ae34befb-6df9-47bc-85ce-5117ea98dd9d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/behavioral/template_method/CaffeinBeverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavioral/template_method/Coffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavioral/template_method/MainTemplateMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavioral/template_method/Tea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/factory/pizza/Korean_PizzaStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/factory/pizza/MainPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/factory/pizza/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/factory/pizza/PizzaStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/factory/pizza/PizzaType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/factory/pizza/VN_PizzaStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/factory/pizza/kr/Korea_HaiSanPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/factory/pizza/vn/VN_HaiSanPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/creational/factory/pizza/vn/VN_NamPizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/creational/builder/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creational/builder/computer/Computer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/creational/builder/MainComputer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creational/builder/computer/MainComputer.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,8 +31,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Enum" />
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -36,68 +54,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainBT1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainBT4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainCC1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainCC2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainComputer.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainDuck.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainSingleton.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainVote.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Code/KTTKPM/Java/TranDuyPhat-63135054&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.MainBT1.executor": "Run",
+    "Application.MainBT4.executor": "Run",
+    "Application.MainCC1.executor": "Run",
+    "Application.MainCC2.executor": "Run",
+    "Application.MainComputer.executor": "Run",
+    "Application.MainDuck.executor": "Run",
+    "Application.MainPizza.executor": "Run",
+    "Application.MainSingleton.executor": "Run",
+    "Application.MainTemplateMethod.executor": "Run",
+    "Application.MainVote.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "deletionFromPopupRequiresConfirmation": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/ToolCode/JetBrains/.jdks/openjdk-21.0.2-1",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.general"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Code\KTTKPM\Java\TranDuyPhat-63135054\src" />
     </key>
-  </component>
-  <component name="RunManager" selected="Application.MainBT4">
-    <configuration name="MainBT4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bt_java.bt4.MainBT4" />
-      <module name="TranDuyPhat-63135054" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="bt_java.bt4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MainCC1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bt_java.cc1_tinh.MainCC1" />
-      <module name="TranDuyPhat-63135054" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="bt_java.cc1_tinh.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.MainBT4" />
-        <item itemvalue="Application.MainCC1" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -116,16 +103,5 @@
       <updated>1706089902888</updated>
     </task>
     <servers />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/bt_java/bt4/MainBT4.java</url>
-          <line>5</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
