@@ -1,0 +1,7 @@
+package behavioral.stratery.cc1_tinh;
+
+public class Cong implements Tinh{
+    public float tinh(float a,float b){
+        return a + b;
+    }
+}
