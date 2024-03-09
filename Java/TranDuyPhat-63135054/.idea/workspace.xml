@@ -4,63 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae34befb-6df9-47bc-85ce-5117ea98dd9d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/behavioral/stratery/cc3_giohang/AirThanhToan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavioral/stratery/cc3_giohang/CODThanhToan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavioral/stratery/cc3_giohang/GioHang.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavioral/stratery/cc3_giohang/KhuyenMai.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavioral/stratery/cc3_giohang/KhuyenMaiCoBan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavioral/stratery/cc3_giohang/KhuyenMaiTyLeVaMax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavioral/stratery/cc3_giohang/MainCC3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavioral/stratery/cc3_giohang/SanPham.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavioral/stratery/cc3_giohang/ThanhToan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creational/builder/a1_hoadon/ChiTietHD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creational/builder/a1_hoadon/HoaDon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creational/builder/a1_hoadon/HoaDonHeader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creational/builder/a1_hoadon/MainA1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creational/builder/a5_book/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creational/builder/a5_book/MainBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creational/builder/a6_data_access/DataAccess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creational/builder/a6_data_access/DataAccessUpgrade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creational/builder/a6_data_access/MainA6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creational/builder/a6_data_access/SanPham.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creational/builder/a6_data_access/UI1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structural/decorator/b1_bieuthuc/BieuThuDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structural/decorator/b1_bieuthuc/BieuThuc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structural/decorator/b1_bieuthuc/BieuThucDonGian.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structural/decorator/b1_bieuthuc/Chia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structural/decorator/b1_bieuthuc/Cong.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structural/decorator/b1_bieuthuc/GiaTriTuyetDoi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structural/decorator/b1_bieuthuc/MainBieuThuc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structural/decorator/b1_bieuthuc/Nhan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structural/decorator/b1_bieuthuc/Tru.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structural/decorator/bevarage/Bevarage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structural/decorator/bevarage/CondimentDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structural/decorator/bevarage/HouseBlend.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structural/decorator/bevarage/MainBeverage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structural/decorator/bevarage/Milk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structural/decorator/bevarage/Whip.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavioral/template_method/CaffeinBeverage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavioral/template_method/beverage/CaffeinBeverage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavioral/template_method/Coffee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavioral/template_method/beverage/Coffee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavioral/template_method/MainTemplateMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavioral/template_method/beverage/MainTemplateMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavioral/template_method/Tea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavioral/template_method/beverage/Tea.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bt_java/cc1_tinh/Chia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavioral/stratery/cc1_tinh/Chia.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bt_java/cc1_tinh/Cong.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavioral/stratery/cc1_tinh/Cong.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bt_java/cc1_tinh/Context.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavioral/stratery/cc1_tinh/Context.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bt_java/cc1_tinh/MainCC1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavioral/stratery/cc1_tinh/MainCC1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bt_java/cc1_tinh/Nhan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavioral/stratery/cc1_tinh/Nhan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bt_java/cc1_tinh/Tinh.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavioral/stratery/cc1_tinh/Tinh.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bt_java/cc1_tinh/Tru.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavioral/stratery/cc1_tinh/Tru.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bt_java/cc2_sapxep/ISoSanh.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavioral/stratery/cc2_sapxep/ISoSanh.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bt_java/cc2_sapxep/MainCC2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavioral/stratery/cc2_sapxep/MainCC2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bt_java/cc2_sapxep/QLSV.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavioral/stratery/cc2_sapxep/QLSV.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bt_java/cc2_sapxep/SinhVien.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavioral/stratery/cc2_sapxep/SinhVien.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bt_java/cc2_sapxep/SoSanhTheoDiem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavioral/stratery/cc2_sapxep/SoSanhTheoDiem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bt_java/cc2_sapxep/SoSanhTheoTen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavioral/stratery/cc2_sapxep/SoSanhTheoTen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/creational/builder/computer/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creational/builder/a7_computer/Computer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/creational/builder/computer/MainComputer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creational/builder/a7_computer/MainComputer.java" afterDir="false" />
-    </list>
+    <list default="true" id="ae34befb-6df9-47bc-85ce-5117ea98dd9d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
