@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae34befb-6df9-47bc-85ce-5117ea98dd9d" name="Changes" comment="" />
+    <list default="true" id="ae34befb-6df9-47bc-85ce-5117ea98dd9d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/creational/singleton/a6_data_access/UI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/composite/b3_file/AbstractFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/composite/b3_file/File.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/composite/b3_file/Folder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/composite/b3_file/MainB3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/creational/builder/a6_data_access/DataAccess.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creational/singleton/a6_data_access/DataAccess.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/creational/builder/a6_data_access/DataAccessUpgrade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creational/singleton/a6_data_access/DataAccessUpgrade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/creational/builder/a6_data_access/MainA6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creational/singleton/a6_data_access/MainA6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/creational/builder/a6_data_access/SanPham.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creational/singleton/a6_data_access/SanPham.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/creational/builder/a6_data_access/UI1.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,40 +48,41 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainA1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainA6.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainBT1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainBT3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainBT4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainBeverage.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainBieuThuc.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainBook.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainCC1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainCC2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainCC3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainComputer.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainDuck.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainPizza.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainSingleton.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainTemplateMethod.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainVote.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Code/KTTKPM/Java/TranDuyPhat-63135054/src/bt_java/cc3_giohang&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.general&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.MainA1.executor": "Run",
+    "Application.MainA6.executor": "Run",
+    "Application.MainB3.executor": "Run",
+    "Application.MainBT1.executor": "Run",
+    "Application.MainBT3.executor": "Run",
+    "Application.MainBT4.executor": "Run",
+    "Application.MainBeverage.executor": "Run",
+    "Application.MainBieuThuc.executor": "Run",
+    "Application.MainBook.executor": "Run",
+    "Application.MainCC1.executor": "Run",
+    "Application.MainCC2.executor": "Run",
+    "Application.MainCC3.executor": "Run",
+    "Application.MainComputer.executor": "Run",
+    "Application.MainDuck.executor": "Run",
+    "Application.MainPizza.executor": "Run",
+    "Application.MainSingleton.executor": "Run",
+    "Application.MainTemplateMethod.executor": "Run",
+    "Application.MainVote.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "deletionFromPopupRequiresConfirmation": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Code/KTTKPM/Java/TranDuyPhat-63135054/src/bt_java/cc3_giohang",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.general"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Code\KTTKPM\Java\TranDuyPhat-63135054\src\bt_java\cc3_giohang" />
@@ -78,26 +91,6 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Code\KTTKPM\Java\TranDuyPhat-63135054\src\bt_java\cc3_giohang" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration name="MainA1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="creational.builder.a1_hoadon.MainA1" />
-      <module name="TranDuyPhat-63135054" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="creational.builder.a1_hoadon.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.MainA1" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
