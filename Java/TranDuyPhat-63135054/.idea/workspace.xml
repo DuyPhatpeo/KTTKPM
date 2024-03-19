@@ -5,17 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ae34befb-6df9-47bc-85ce-5117ea98dd9d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/creational/singleton/a6_data_access/UI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structural/composite/b3_file/AbstractFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structural/composite/b3_file/File.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structural/composite/b3_file/Folder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/structural/composite/b3_file/MainB3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavioral/chain_of_responsibility/cb1_atm/ATM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavioral/chain_of_responsibility/cb1_atm/ATM_Diagram.puml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavioral/chain_of_responsibility/cb1_atm/MenhGiaATM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavioral/chain_of_responsibility/cb1_atm/MenhGiaThapNhat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavioral/chain_of_responsibility/f88/ChoVayF88.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavioral/chain_of_responsibility/f88/ChuTich.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavioral/chain_of_responsibility/f88/F88_Diagram.puml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavioral/chain_of_responsibility/f88/MainF88.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavioral/chain_of_responsibility/f88/NhanVien.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/creational/builder/a6_data_access/DataAccess.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creational/singleton/a6_data_access/DataAccess.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/creational/builder/a6_data_access/DataAccessUpgrade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creational/singleton/a6_data_access/DataAccessUpgrade.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/creational/builder/a6_data_access/MainA6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creational/singleton/a6_data_access/MainA6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/creational/builder/a6_data_access/SanPham.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creational/singleton/a6_data_access/SanPham.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/creational/builder/a6_data_access/UI1.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +26,7 @@
       <list>
         <option value="Interface" />
         <option value="Enum" />
+        <option value="UML Class" />
         <option value="Class" />
       </list>
     </option>
@@ -65,10 +65,12 @@
     "Application.MainCC3.executor": "Run",
     "Application.MainComputer.executor": "Run",
     "Application.MainDuck.executor": "Run",
+    "Application.MainF88.executor": "Run",
     "Application.MainPizza.executor": "Run",
     "Application.MainSingleton.executor": "Run",
     "Application.MainTemplateMethod.executor": "Run",
     "Application.MainVote.executor": "Run",
+    "DefaultPlantUmlFileTemplate": "UML Class",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -80,7 +82,7 @@
     "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.general"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
