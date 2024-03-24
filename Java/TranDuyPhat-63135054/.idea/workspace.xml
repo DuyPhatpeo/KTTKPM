@@ -5,16 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ae34befb-6df9-47bc-85ce-5117ea98dd9d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/behavioral/chain_of_responsibility/cb1_atm/ATM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavioral/chain_of_responsibility/cb1_atm/ATM_Diagram.puml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavioral/chain_of_responsibility/cb1_atm/MenhGiaATM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavioral/chain_of_responsibility/cb1_atm/MenhGiaThapNhat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavioral/chain_of_responsibility/f88/ChoVayF88.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavioral/chain_of_responsibility/f88/ChuTich.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavioral/chain_of_responsibility/f88/F88_Diagram.puml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavioral/chain_of_responsibility/f88/MainF88.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavioral/chain_of_responsibility/f88/NhanVien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/composite/b4_kehoachhoctap/KeHoachChung.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/composite/b4_kehoachhoctap/KeHoachHocTap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/composite/b4_kehoachhoctap/MainB4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/composite/b4_kehoachhoctap/MonHoc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/composite/b4_kehoachhoctap/b4_diagram.puml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/composite/b6_tree/BNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/composite/b6_tree/InnerNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/composite/b6_tree/Leaft.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/composite/b6_tree/MainB6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/structural/composite/b6_tree/b6_diagram.puml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavioral/chain_of_responsibility/cb1_atm/MenhGiaATM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavioral/chain_of_responsibility/cb1_atm/MenhGiaATM.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +56,8 @@
     "Application.MainA1.executor": "Run",
     "Application.MainA6.executor": "Run",
     "Application.MainB3.executor": "Run",
+    "Application.MainB4.executor": "Run",
+    "Application.MainB6.executor": "Run",
     "Application.MainBT1.executor": "Run",
     "Application.MainBT3.executor": "Run",
     "Application.MainBT4.executor": "Run",
@@ -82,7 +86,8 @@
     "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.editor"
   }
 }]]></component>
   <component name="RecentsManager">

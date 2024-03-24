@@ -17,6 +17,5 @@ public class MenhGiaATM extends ATM{
         int soTo, soDu;
         soTo = soTien/menhGia;
         soDu = soTien%menhGia;
-        return soTo;
     }
 }
