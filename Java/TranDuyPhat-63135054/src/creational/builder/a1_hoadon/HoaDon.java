@@ -30,10 +30,6 @@ public class HoaDon {
             this.hoaDonHeader = new HoaDonHeader(maHoaDon,ngayBan,tenKH);
             return this;
         }
-        public Builder buildHoaDonHeader(HoaDonHeader hoaDonHeader){
-            this.hoaDonHeader = hoaDonHeader;
-            return this;
-        }
         public Builder addCTHD(String sanPham, int soLuong, int donGia, float chietKhau){
             chiTietHDList.add(new ChiTietHD(sanPham,soLuong,donGia,chietKhau));
             return this;
