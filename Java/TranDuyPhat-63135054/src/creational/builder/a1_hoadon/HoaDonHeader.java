@@ -17,27 +17,4 @@ public class HoaDonHeader {
         return builder.toString();
     }
 
-    public String getMaHoaDon() {
-        return maHoaDon;
-    }
-
-    public void setMaHoaDon(String maHoaDon) {
-        this.maHoaDon = maHoaDon;
-    }
-
-    public String getNgayBan() {
-        return ngayBan;
-    }
-
-    public void setNgayBan(String ngayBan) {
-        this.ngayBan = ngayBan;
-    }
-
-    public String getTenKH() {
-        return tenKH;
-    }
-
-    public void setTenKH(String tenKH) {
-        this.tenKH = tenKH;
-    }
 }

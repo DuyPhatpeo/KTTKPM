@@ -23,5 +23,5 @@ public class ChiTietHD {
                 .append("\n").append("Chiết khấu: ").append(chietKhau);
         return builder.toString();
     }
-    
+
 }
