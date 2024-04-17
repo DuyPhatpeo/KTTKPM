@@ -4,28 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae34befb-6df9-47bc-85ce-5117ea98dd9d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/behavioral/chain_of_responsibility/cb1_atm/ATM_TheoMenhGia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavioral/chain_of_responsibility/cb1_atm/ChuoiMenhGiaFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavioral/chain_of_responsibility/cb1_atm/ChuoiMenhGiaVND.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavioral/chain_of_responsibility/cb1_atm/MenhGia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavioral/chain_of_responsibility/cb1_atm/atm_diagram.puml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavioral/observer/ca3_tigia/MainTiGia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavioral/observer/ca3_tigia/NhaDauTuA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavioral/observer/ca3_tigia/NhaDauTuB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavioral/observer/ca3_tigia/TiGia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavioral/observer/ca3_tigia/TiGiaUSD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavioral/observer/ca5_atm/ATM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavioral/observer/ca5_atm/MainCA5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavioral/observer/ca5_atm/TaiKhoan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavioral/observer/ca5_atm/TaiKhoanATM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavioral/observer/ca5_atm/atm_diagram.puml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavioral/chain_of_responsibility/cb1_atm/ATM.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavioral/chain_of_responsibility/cb1_atm/ATM_Diagram.puml" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavioral/chain_of_responsibility/cb1_atm/ATM_Diagram1.puml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavioral/chain_of_responsibility/cb1_atm/MenhGiaATM.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavioral/chain_of_responsibility/cb1_atm/MenhGiaThapNhat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavioral/chain_of_responsibility/cb1_atm/MenhGiaThapNhat.java" afterDir="false" />
-    </list>
+    <list default="true" id="ae34befb-6df9-47bc-85ce-5117ea98dd9d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,48 +37,49 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainA1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainA6.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainB3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainB4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainB6.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainBT1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainBT3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainBT4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainBeverage.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainBieuThuc.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainBook.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainCA5.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainCC1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainCC2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainCC3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainComputer.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainDuck.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainF88.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainPizza.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainSingleton.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainTemplateMethod.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainTiGia.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainVote.executor&quot;: &quot;Run&quot;,
-    &quot;DefaultPlantUmlFileTemplate&quot;: &quot;UML Class&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Code/KTTKPM/Java/TranDuyPhat-63135054/src/bt_java/cc3_giohang&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.MainA1.executor": "Run",
+    "Application.MainA6.executor": "Run",
+    "Application.MainB3.executor": "Run",
+    "Application.MainB4.executor": "Run",
+    "Application.MainB6.executor": "Run",
+    "Application.MainBT1.executor": "Run",
+    "Application.MainBT3.executor": "Run",
+    "Application.MainBT4.executor": "Run",
+    "Application.MainBeverage.executor": "Run",
+    "Application.MainBieuThuc.executor": "Run",
+    "Application.MainBook.executor": "Run",
+    "Application.MainCA5.executor": "Run",
+    "Application.MainCB1.executor": "Run",
+    "Application.MainCC1.executor": "Run",
+    "Application.MainCC2.executor": "Run",
+    "Application.MainCC3.executor": "Run",
+    "Application.MainComputer.executor": "Run",
+    "Application.MainDuck.executor": "Run",
+    "Application.MainF88.executor": "Run",
+    "Application.MainPizza.executor": "Run",
+    "Application.MainSingleton.executor": "Run",
+    "Application.MainTemplateMethod.executor": "Run",
+    "Application.MainTiGia.executor": "Run",
+    "Application.MainVote.executor": "Run",
+    "DefaultPlantUmlFileTemplate": "UML Class",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "deletionFromPopupRequiresConfirmation": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Code/KTTKPM/Java/TranDuyPhat-63135054/src/bt_java/cc3_giohang",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.editor"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Code\KTTKPM\Java\TranDuyPhat-63135054\src\bt_java\cc3_giohang" />
