@@ -5,10 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ae34befb-6df9-47bc-85ce-5117ea98dd9d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/behavioral/template_method/online/MySinhVien.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavioral/template_method/online/MySinhVienDB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavioral/template_method/online/ObjectDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavioral/chain_of_responsibility/cb1_atm/ATM_TheoMenhGia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavioral/chain_of_responsibility/cb1_atm/ChuoiMenhGiaFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavioral/chain_of_responsibility/cb1_atm/ChuoiMenhGiaVND.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavioral/chain_of_responsibility/cb1_atm/MenhGia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavioral/chain_of_responsibility/cb1_atm/atm_diagram.puml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavioral/observer/ca3_tigia/MainTiGia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavioral/observer/ca3_tigia/NhaDauTuA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavioral/observer/ca3_tigia/NhaDauTuB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavioral/observer/ca3_tigia/TiGia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavioral/observer/ca3_tigia/TiGiaUSD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavioral/observer/ca5_atm/ATM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavioral/observer/ca5_atm/MainCA5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavioral/observer/ca5_atm/TaiKhoan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavioral/observer/ca5_atm/TaiKhoanATM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavioral/observer/ca5_atm/atm_diagram.puml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavioral/chain_of_responsibility/cb1_atm/ATM.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavioral/chain_of_responsibility/cb1_atm/ATM_Diagram.puml" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavioral/chain_of_responsibility/cb1_atm/ATM_Diagram1.puml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavioral/chain_of_responsibility/cb1_atm/MenhGiaATM.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/behavioral/chain_of_responsibility/cb1_atm/MenhGiaThapNhat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/behavioral/chain_of_responsibility/cb1_atm/MenhGiaThapNhat.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +34,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Enum" />
+        <option value="Interface" />
         <option value="UML Class" />
         <option value="Class" />
       </list>
@@ -56,6 +72,7 @@
     &quot;Application.MainBeverage.executor&quot;: &quot;Run&quot;,
     &quot;Application.MainBieuThuc.executor&quot;: &quot;Run&quot;,
     &quot;Application.MainBook.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainCA5.executor&quot;: &quot;Run&quot;,
     &quot;Application.MainCC1.executor&quot;: &quot;Run&quot;,
     &quot;Application.MainCC2.executor&quot;: &quot;Run&quot;,
     &quot;Application.MainCC3.executor&quot;: &quot;Run&quot;,
@@ -65,6 +82,7 @@
     &quot;Application.MainPizza.executor&quot;: &quot;Run&quot;,
     &quot;Application.MainSingleton.executor&quot;: &quot;Run&quot;,
     &quot;Application.MainTemplateMethod.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainTiGia.executor&quot;: &quot;Run&quot;,
     &quot;Application.MainVote.executor&quot;: &quot;Run&quot;,
     &quot;DefaultPlantUmlFileTemplate&quot;: &quot;UML Class&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
@@ -90,13 +108,6 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Code\KTTKPM\Java\TranDuyPhat-63135054\src\bt_java\cc3_giohang" />
     </key>
-  </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
-      </set>
-    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
