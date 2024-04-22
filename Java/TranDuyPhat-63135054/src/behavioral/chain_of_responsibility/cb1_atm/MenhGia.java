@@ -16,7 +16,7 @@ public class MenhGia extends ATM_TheoMenhGia {
     public void ruttien(int sotien) {
         int soTo = sotien/menhgia;
         int soDu = sotien%menhgia;
-        if(sotien >0)
+        if(soTo >0)
             System.out.println(soTo + " tờ "+ menhgia);
         if(soDu>0)
             ketiep.ruttien(soDu);

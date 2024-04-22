@@ -1,43 +1,42 @@
 package behavioral.chain_of_responsibility.cb1_atm;
 
 public class ChuoiMenhGiaVND extends ChuoiMenhGiaFactory{
-    ATM_TheoMenhGia atmTheoMenhGia500 = new MenhGia(500);
-    ATM_TheoMenhGia atmTheoMenhGia200 = new MenhGia(200);
-    ATM_TheoMenhGia atmTheoMenhGia100 = new MenhGia(100);
-    ATM_TheoMenhGia atmTheoMenhGia50 = new MenhGia(50);
-    ATM_TheoMenhGia atmTheoMenhGia20= new MenhGia(20);
-    ATM_TheoMenhGia atmTheoMenhGia10= new MenhGia(10);
-    ATM_TheoMenhGia atmTheoMenhGia5= new MenhGia(5);
-    ATM_TheoMenhGia atmTheoMenhGia2= new MenhGia(2);
-    ATM_TheoMenhGia atmTheoMenhGia1= new MenhGia(1);
-
+    ATM_TheoMenhGia menhGia1 = new MenhGia(1);
+    ATM_TheoMenhGia menhGia2 = new MenhGia(2);
+    ATM_TheoMenhGia menhGia5 = new MenhGia(5);
+    ATM_TheoMenhGia menhGia10 = new MenhGia(10);
+    ATM_TheoMenhGia menhGia20 = new MenhGia(20);
+    ATM_TheoMenhGia menhGia50 = new MenhGia(50);
+    ATM_TheoMenhGia menhGia100 = new MenhGia(100);
+    ATM_TheoMenhGia menhGia200 = new MenhGia(200);
+    ATM_TheoMenhGia menhGia500 = new MenhGia(500);
     public ChuoiMenhGiaVND() {
-        atmTheoMenhGia500.menhGiaTiepTheo(atmTheoMenhGia200).menhGiaTiepTheo(atmTheoMenhGia100).menhGiaTiepTheo(atmTheoMenhGia50).menhGiaTiepTheo(atmTheoMenhGia20).menhGiaTiepTheo(atmTheoMenhGia10).menhGiaTiepTheo(atmTheoMenhGia5).menhGiaTiepTheo(atmTheoMenhGia2).menhGiaTiepTheo(atmTheoMenhGia1);
+        menhGia500.menhGiaTiepTheo(menhGia200).menhGiaTiepTheo(menhGia100).menhGiaTiepTheo(menhGia50).menhGiaTiepTheo(menhGia20).menhGiaTiepTheo(menhGia10).menhGiaTiepTheo(menhGia5).menhGiaTiepTheo(menhGia2).menhGiaTiepTheo(menhGia1);
     }
-
     @Override
     public ATM_TheoMenhGia getChuoiMenhGia(int menhgia) {
-        switch (menhgia) {
+        switch (menhgia){
             case 500:
-                return atmTheoMenhGia500;
+                return menhGia500;
             case 200:
-                return atmTheoMenhGia200;
+                return menhGia200;
             case 100:
-                return atmTheoMenhGia100;
+                return menhGia100;
             case 50:
-                return atmTheoMenhGia50;
+                return menhGia50;
             case 20:
-                return atmTheoMenhGia20;
+                return menhGia20;
             case 10:
-                return atmTheoMenhGia10;
+                return menhGia10;
             case 5:
-                return atmTheoMenhGia5;
+                return menhGia5;
             case 2:
-                return atmTheoMenhGia2;
+                return menhGia2;
             case 1:
-                return atmTheoMenhGia1;
+                return menhGia1;
             default:
                 return null;
         }
     }
 }
+

@@ -1,0 +1,24 @@
+@startuml
+'https://plantuml.com/class-diagram
+
+interface Tokenize{
+    List<String> tokenize();
+}
+
+abstract class TokenDecorator
+
+class TachTu{
+    String s
+}
+
+class RemoveStopword{
+    # List<String> stopwords
+}
+
+
+Tokenize <|... TachTu
+Tokenize <|... TokenDecorator
+TokenDecorator <-- RemoveStopword
+TokenDecorator <-- RemovePunc
+TokenDecorator ---> Tokenize: token
+@enduml
