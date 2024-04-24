@@ -1,0 +1,22 @@
+@startuml
+
+abstract class Collection{
+    {abstract} MyIterator createIterator()
+}
+interface MyIterator{
+    + Object first()
+    + Object next()
+    + Object current()
+    + bool isDone()
+}
+
+class ArrayCollection{
+    - int[] arr
+    + int getItem(int i)
+    + int count()
+}
+
+Collection <|-- ArrayCollection
+MyIterator <|.. ArrayIterator
+ArrayIterator --> ArrayCollection: collecton
+@enduml
