@@ -5,19 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ae34befb-6df9-47bc-85ce-5117ea98dd9d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavioral/iterator/ce1_mang/ArrayCollection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavioral/iterator/ce1_mang/ArrayIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavioral/iterator/ce1_mang/MainCE1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavioral/iterator/ce1_mang/MyCollection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavioral/iterator/ce1_mang/MyIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavioral/iterator/ce1_mang/mang_diagram.puml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavioral/iterator/vidu/ArrayListIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavioral/iterator/vidu/IteratorExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavioral/iterator/vidu/MonHoc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavioral/chain_of_responsibility/cb4_veso/GiaiKhuyenKhich.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavioral/chain_of_responsibility/cb4_veso/GiaiThapNhat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavioral/chain_of_responsibility/cb4_veso/GiaiThongThuong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavioral/chain_of_responsibility/cb4_veso/GiaiThuong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavioral/chain_of_responsibility/cb4_veso/MainCB4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavioral/chain_of_responsibility/cb4_veso/veso_diagram.puml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavioral/observer/ca1_streamdata/DataAccess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavioral/observer/ca1_streamdata/MainCA1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavioral/observer/ca1_streamdata/MonHoc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavioral/observer/ca1_streamdata/MyClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavioral/observer/ca1_streamdata/MyStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/behavioral/observer/ca1_streamdata/streamdata_diagram.puml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TranDuyPhat-63135054.iml" beforeDir="false" afterPath="$PROJECT_DIR$/TranDuyPhat-63135054.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,9 +69,11 @@
     "Application.MainBeverage.executor": "Run",
     "Application.MainBieuThuc.executor": "Run",
     "Application.MainBook.executor": "Run",
+    "Application.MainCA1.executor": "Run",
     "Application.MainCA5.executor": "Run",
     "Application.MainCB1.executor": "Run",
     "Application.MainCB3.executor": "Run",
+    "Application.MainCB4.executor": "Run",
     "Application.MainCC1.executor": "Run",
     "Application.MainCC2.executor": "Run",
     "Application.MainCC3.executor": "Run",
