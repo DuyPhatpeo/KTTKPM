@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae34befb-6df9-47bc-85ce-5117ea98dd9d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/behavioral/chain_of_responsibility/cb5_xeploai/LoaiThongThuong.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavioral/chain_of_responsibility/cb5_xeploai/LoaiXuatSac.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavioral/chain_of_responsibility/cb5_xeploai/MainCB5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavioral/chain_of_responsibility/cb5_xeploai/XepLoai.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/behavioral/chain_of_responsibility/cb5_xeploai/xeploai_diagram.puml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ae34befb-6df9-47bc-85ce-5117ea98dd9d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,7 +81,7 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Code",
+    "last_opened_file_path": "D:/Code/KTTKPM/Java/TranDuyPhat-63135054/src/structural/decorator/b2_tokenize",
     "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.0",
