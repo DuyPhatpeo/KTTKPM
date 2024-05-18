@@ -9,6 +9,6 @@ abstract class XepLoai{
 }
 XepLoai <|-- LoaiThongThuong
 XepLoai <|-- LoaiXuatSac
-LoaiXuatSac --> XepLoai : ketiep
+LoaiThongThuong --> XepLoai : ketiep
 
 @enduml

@@ -1,21 +1,24 @@
 package behavioral.chain_of_responsibility.cb5_xeploai;
 
 public class LoaiThongThuong extends XepLoai{
-    public LoaiThongThuong(String tenXepLoai, float min) {
-        super(tenXepLoai, min);
+    XepLoai ketiep;
+    public LoaiThongThuong(String tenXepLoai, float max) {
+        super(tenXepLoai, max);
     }
 
     @Override
     public XepLoai bacKeTiep(XepLoai ketiep) {
-        return null;
+        this.ketiep = ketiep;
+        return this.ketiep;
     }
 
     @Override
     public String xetXepLoai(float diem) {
-        if(diem >= min){
+        if(diem <= max){
             return tenXepLoai;
         }
-        return "";
+        return ketiep.xetXepLoai(diem);
+
     }
 
 }
