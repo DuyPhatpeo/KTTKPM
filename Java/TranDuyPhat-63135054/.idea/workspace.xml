@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ae34befb-6df9-47bc-85ce-5117ea98dd9d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/behavioral/chain_of_responsibility/cb1_atm/atm_diagram.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/behavioral/chain_of_responsibility/cb3_tiendien/tienDien_diagram.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +85,7 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/SourceCode/KTTKPM/Java/TranDuyPhat-63135054/src/behavioral/chain_of_responsibility/cb1_atm",
+    "last_opened_file_path": "D:/SourceCode/KTTKPM/Java/TranDuyPhat-63135054/src/structural/decorator/maytinh",
     "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.0",
